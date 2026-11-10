@@ -18,26 +18,6 @@ Matplotlib & Seaborn – Data visualization
 Power BI – Interactive dashboards and reporting
 GitHub – Version control and project documentation
 
-fuel-consumption-ghana/
-│
-├── README.md
-├── Fuel Consumption in GH.pptx
-│
-├── data/
-│   └── fuel_consumption_dataset.xlsx
-│
-├── scripts/
-│   └── analysis.py
-│
-├── notebooks/
-│   └── fuel_analysis.ipynb
-│
-├── dashboards/
-│   └── powerbi_dashboard.pbix
-│
-└── images/
-    └── dashboard.png
-
 
  Key Findings
 Fuel consumption exhibits notable variation across the study period.

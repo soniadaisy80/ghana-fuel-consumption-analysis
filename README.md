@@ -1,5 +1,4 @@
 # fuel-consumption-ghana
-Overview
 This project examines fuel consumption trends in Ghana and their relationship with:
 
 Inflation

@@ -47,6 +47,7 @@ Include renewable energy consumption data.
 Develop predictive models for future fuel demand.
 Integrate real-time fuel price monitoring.
 Expand the analysis to include regional comparisons within Ghana.
+
 Author
 Sonia D. Tachie-Menson
 
